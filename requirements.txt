@@ -1,0 +1,8 @@
+Levenshtein
+nltk
+numpy
+pandas
+scikit-learn
+torch
+transformers
+tqdm
