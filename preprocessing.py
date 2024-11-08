@@ -208,5 +208,3 @@ def build_all_datasets():
         sent_df.to_csv(f"cochraneauto_sents_{split}.csv", index=False)
         para_df.to_csv(f"cochraneauto_para_{split}.csv", index=False)
         doc_df.to_csv(f"cochraneauto_docs_{split}.csv", index=False)
-
-build_all_datasets()

@@ -1,4 +1,4 @@
-# cochrane-auto
+# Cochrane-auto
 This directory contains all our data, as well as the code used to create our new dataset, for the paper Cochrane-auto: An Aligned Dataset for the Simplification of Biomedical Abstracts.
 
 ## Pretrained model
