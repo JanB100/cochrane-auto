@@ -1,5 +1,5 @@
 # Cochrane-auto
-This directory contains all our data, as well as the code used to create our new dataset, for the paper Cochrane-auto: An Aligned Dataset for the Simplification of Biomedical Abstracts.
+This directory contains all our data, as well as the code used to create our new dataset, for the paper [Cochrane-auto: An Aligned Dataset for the Simplification of Biomedical Abstracts](https://aclanthology.org/2024.tsar-1.5/).
 
 ## Pretrained model
 We share the checkpoint for the neural CRF alignment model which we pretrained on Wiki-manual [here](https://drive.google.com/file/d/12FHcrrPdqKgE6R4G7uuTUasuAS9da018/view?usp=sharing).
